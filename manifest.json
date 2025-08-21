@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Summarizer (Google AI)",
+  "version": "1.0",
+  "description": "Summarize webpages using Google AI with custom context.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
