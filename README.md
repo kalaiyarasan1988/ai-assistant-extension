@@ -85,6 +85,3 @@ You can guide the summary style (e.g., “Explain like I’m 5”, “Business-f
 ![Summary Screenshot](docs/images/summary.png)
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License — feel free to use, modify, and share.
