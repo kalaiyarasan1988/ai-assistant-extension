@@ -1,5 +1,3 @@
-// const API_KEY = "AIzaSyD_rMQJHqVk4VDwAvr7kJsOVN0atmhZ1ro";  // Replace with your key
-
 document.getElementById("summarizeBtn").addEventListener("click", async () => {
   const context = document.getElementById("context").value;
 
